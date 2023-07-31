@@ -10,6 +10,7 @@ This is a simple currency exchange program implemented in Python. The program al
 - Supports conversion between multiple currencies.
 - Utilizes a public API to fetch real-time exchange rates.
 - Displays the converted amount with the corresponding currency symbol.
+- NEW: identify when the currency don't exist
 
 ## How to Use
 
