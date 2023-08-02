@@ -22,7 +22,7 @@ This is a simple currency exchange program implemented in Python. The program al
    ```
 3. Run the program using the following command:
    ```
-   python exchange.py
+   python divisa.py
    ```
 4. Follow the on-screen instructions to enter the input currency, output currency, and the amount you want to convert.
 5. The program will fetch the latest exchange rate and display the converted amount.
